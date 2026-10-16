@@ -101,6 +101,17 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [z-image-api-es](https://github.com/r91kz/z-image-api-es)
+- **Same model, other languages** — 9 more language builds: 中文 [z-image-api-cn](https://github.com/vbu-o4gm/z-image-api-cn) · Deutsch [z-image-api-de](https://github.com/e378pu80/z-image-api-de) · Français [z-image-api-fr](https://github.com/qxhjep3w5me/z-image-api-fr) · Relay/gateway `z-image-api-gateway` · Bahasa [z-image-api-id](https://github.com/x5qdsi/z-image-api-id) · 日本語 [z-image-api-ja](https://github.com/ej094tn/z-image-api-ja) · 한국어 [z-image-api-ko](https://github.com/x69ynmals73l4z/z-image-api-ko) · Português `z-image-api-pt` · Русский [z-image-api-ru](https://github.com/zndjw/z-image-api-ru)
+- **More models in this language** — [midjourney-api-es](https://github.com/xbuu0/midjourney-api-es) · [gemini-2-5-flash-image-preview-api-es](https://github.com/ekw3w/gemini-2-5-flash-image-preview-api-es) · [nano-banana-api-es](https://github.com/gbm5mfl1/nano-banana-api-es) · [gemini-3-1-flash-image-preview-api-es](https://github.com/x3kcczm8l29xn/gemini-3-1-flash-image-preview-api-es) · [nano-banana-2-api-es](https://github.com/d63hy9t-4pp/nano-banana-2-api-es) · [gemini-3-pro-image-preview-api-es](https://github.com/uv9d8/gemini-3-pro-image-preview-api-es)
+- **Topic hubs** — every build of this model, all languages: [z-image](https://github.com/topics/z-image) · [z-image-api](https://github.com/topics/z-image-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
